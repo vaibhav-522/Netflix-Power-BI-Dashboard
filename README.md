@@ -4,9 +4,8 @@ An interactive Power BI dashboard analysing **8,807 Netflix titles** by type, re
 
 ![Netflix Dashboard Overview](images/netflix_dashboard_overview.png)
 
-<!-- Add your real Power BI screenshot here:
-![Dashboard Screenshot](images/dashboard_screenshot.png) -->
-
+   ![Dashboard Screenshot](images/dashboard_screenshot.png)
+   
 ## 📌 Dashboard Contents
 - **KPI cards:** Total Titles, Total Movies, Total TV Shows, Total Directors, Total Countries, YoY Growth %
 - **Slicers:** Type, Release Decade, Date Added
@@ -36,4 +35,4 @@ Power BI Desktop · Power Query · DAX measures · Data modeling · Dashboard de
 Download `Netflix_Dashboard.pbix` and open it in **Power BI Desktop** (free).
 
 ## 📬 Connect
-[Your Name](https://www.linkedin.com/in/your-profile)
+Vaibhav Meher--vaibhav-meher-411aa528b
