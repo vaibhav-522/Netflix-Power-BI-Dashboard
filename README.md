@@ -1,10 +1,9 @@
-# 🎬 Netflix Content Dashboard (Power BI)
+<img width="1413" height="745" alt="Netflix_Dashboard_Overview" src="https://github.com/user-attachments/assets/b70f53af-b904-45aa-bfcc-edf18c46c206" /># 🎬 Netflix Content Dashboard (Power BI)
 
 An interactive Power BI dashboard analysing **8,807 Netflix titles** by type, release decade, runtime, seasons, rating and year added.
 
-![Netflix Dashboard Overview](images/netflix_dashboard_overview.png)
+   ![Dashboard Screenshot] <img width="1413" height="745" alt="Netflix_Dashboard_Overview" src="https://github.com/user-attachments/assets/af6553eb-d2bd-4f51-a082-dcc83b49417b" />
 
-   ![Dashboard Screenshot](images/dashboard_screenshot.png)
    
 ## 📌 Dashboard Contents
 - **KPI cards:** Total Titles, Total Movies, Total TV Shows, Total Directors, Total Countries, YoY Growth %
